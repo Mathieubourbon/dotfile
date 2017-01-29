@@ -83,3 +83,5 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias dev_django="~/.dotfile/tmux/scripts/dev_django.sh"
+alias python=python3
